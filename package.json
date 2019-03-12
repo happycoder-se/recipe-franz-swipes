@@ -1,0 +1,13 @@
+{
+  "id": "swipesapp",
+  "name": "SwipesApp",
+  "version": "1.0.0",
+  "description": "SwipesApp",
+  "main": "index.js",
+  "author": "Fredrik <fredrik@ducce.com>",
+  "repository": "https://github.com/ducce/recipe-franz-swipes",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.swipesapp.com"
+  }
+}
