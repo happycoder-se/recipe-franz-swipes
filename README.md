@@ -1,2 +1,2 @@
 # recipe-franz-swipes
-Swipes for Franz
+Swipes for Franz (https://meetfranz.com/)
